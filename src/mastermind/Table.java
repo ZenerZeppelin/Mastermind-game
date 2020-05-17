@@ -1,7 +1,5 @@
 package mastermind;
 
-import sun.awt.X11.XSystemTrayPeer;
-
 import java.util.HashSet;
 import java.util.List;
 import java.util.Random;
